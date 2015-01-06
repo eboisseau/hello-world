@@ -2,4 +2,8 @@ hello-world
 ===========
 
 Hey ! I'm following the tutorial !
-And I think I'm heading straight to the end !
+
+I thought it was all done, but apparently, I'm still a young padawan.
+
+
+But, but...
